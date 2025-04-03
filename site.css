@@ -41446,7 +41446,7 @@ body:not(.sqs-edit-mode) .blog-item-preview-chip-container.visitor-hidden {
 }
 
 .figure img {
-    height: auto
+    height: auto;
 }
 
 .figure img.Sirv.image-hover {
@@ -41463,7 +41463,7 @@ body:not(.sqs-edit-mode) .blog-item-preview-chip-container.visitor-hidden {
 
 .figure:hover img.Sirv.image-hover {
     opacity: 1;
-    height: 100% !important
+    height: auto !important
 }
 
 .overlayclass {
