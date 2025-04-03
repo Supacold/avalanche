@@ -104,6 +104,7 @@ body .sqs-block-form-lightbox .form-button-wrapper .tock-block div#Tock_widget_c
 /* Specific Button Style Overrides
 =================================================*/
 #siteWrapper.site-wrapper div#Tock_widget_container > div.TockWidgetWrapper .TockButton {
+  align-items: flex-start;
   height: auto;
   line-height: 0;
 }
@@ -1844,6 +1845,7 @@ body:not(.form-use-theme-colors) .sqs-modal-lightbox-content .lightbox-inner .sq
 .sqs-block-form .field-list .caption,
 .sqs-block-form .field-list .caption > * {
   display: block;
+  align-items: flex-start;
   height: auto;
   word-break: break-word;
 }
@@ -3179,6 +3181,7 @@ body .sqs-block-form-lightbox .form-button-wrapper .tock-block div#Tock_widget_c
 /* Specific Button Style Overrides
 =================================================*/
 #siteWrapper.site-wrapper div#Tock_widget_container > div.TockWidgetWrapper .TockButton {
+  align-items: flex-start;
   height: auto;
   line-height: 0;
 }
