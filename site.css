@@ -41446,7 +41446,7 @@ body:not(.sqs-edit-mode) .blog-item-preview-chip-container.visitor-hidden {
 }
 
 .figure img {
-    height: 100%
+    height: auto
 }
 
 .figure img.Sirv.image-hover {
