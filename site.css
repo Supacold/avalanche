@@ -3233,13 +3233,13 @@
 
 :root {
     --base-font-size: 15px;
-    --heading-font-font-family: monotype-grotesque-display-extended;
+    --heading-font-font-family: montserrat;
     --heading-font-font-style: normal;
-    --heading-font-font-weight: 700;
+    --heading-font-font-weight: 900;
     --heading-font-text-transform: none;
     --heading-font-letter-spacing: .02em;
     --heading-font-line-height: 1.1em;
-    --body-font-font-family: bicyclette;
+    --body-font-font-family: montserrat;
     --body-font-font-style: normal;
     --body-font-font-weight: 300;
     --body-font-text-transform: none;
@@ -3643,9 +3643,9 @@
     --video-basic-grid-list-excerpt-font-line-height: var(--body-font-line-height);
     --video-basic-grid-list-excerpt-font-font-size: var(--small-text-size);
     --video-basic-grid-list-excerpt-font-font-size-value: var(--small-text-size-value);
-    --site-navigation-font-font-family: monotype-grotesque-display-extended;
+    --site-navigation-font-font-family: montserrat;
     --site-navigation-font-font-style: normal;
-    --site-navigation-font-font-weight: 700;
+    --site-navigation-font-font-weight: 900;
     --site-navigation-font-text-transform: none;
     --site-navigation-font-letter-spacing: .03em;
     --site-navigation-font-line-height: 1.1em;
@@ -41521,7 +41521,7 @@ h4 a {
     background-color: #fff;
     margin: 0 auto 80px auto;
     text-align: center;
-    max-width: 460px;
+    max-width: 500px;
     width: 100%
 }
 
